@@ -8655,6 +8655,1595 @@
             "isHD":true,
             "broadcasterId":20,
             "logoUrl":"Jio_Cricket_Kannada.png"
+        },
+        {
+            "channel_id":"0-9-zeecinemahd",
+            "channel_name":"Zee Cinema HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257"
+        },
+        {
+            "channel_id":"0-9-zeecinemalu",
+            "channel_name":"Zee Cinemalu HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x6581642453232"
+        },
+        {
+            "channel_id":"0-9-tvpictureshd",
+            "channel_name":"&Pictures HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363"
+        },
+        {
+            "channel_id":"0-9-zeetalkies",
+            "channel_name":"Zee Talkies HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658483062857"
+        },
+        {
+            "channel_id":"0-9-zeeanmolcinema",
+            "channel_name":"Zee Anmol Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595"
+        },
+        {
+            "channel_id":"0-9-zeeclassic",
+            "channel_name":"Zee Bollywood",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11"
+        },
+        {
+            "channel_id":"0-9-zeecinema",
+            "channel_name":"Zee Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654"
+        },
+        {
+            "channel_id":"0-9-pictures",
+            "channel_name":"&Pictures",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414"
+        },
+        {
+            "channel_id":"0-9-zeeaction",
+            "channel_name":"Zee Action",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347"
+        },
+        {
+            "channel_id":"0-9-privéhd",
+            "channel_name":"&Prive HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo375086496"
+        },
+        {
+            "channel_id":"0-9-channel_2105335046",
+            "channel_name":"&flix HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658379547401"
+        },
+        {
+            "channel_id":"0-9-176",
+            "channel_name":"Zee Classic",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658d4d3573a17f24dcdb86c0da75e7208e8"
+        },
+        {
+            "channel_id":"0-9-209",
+            "channel_name":"&xplorHD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080"
+        },
+        {
+            "channel_id":"0-9-216",
+            "channel_name":"Zee Biskope",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_web/1170x658withlogo20909261"
+        },
+        {
+            "channel_id":"0-9-224",
+            "channel_name":"Zee Thirai",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193"
+        },
+        {
+            "channel_id":"0-9-394",
+            "channel_name":"Zee Chitramandir",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_web/1170x658717187404"
+        },
+        {
+            "channel_id":"0-9-aajtak",
+            "channel_name":"Aaj Tak",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_web/aajtak117075e453cde75a4fcbbd98b890266dcb21"
+        },
+        {
+            "channel_id":"0-9-zeenews",
+            "channel_name":"Zee News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeenews/channel_web/zeenews117058a10e260ccf453885b0b866b6efcf8c"
+        },
+        {
+            "channel_id":"0-9-162",
+            "channel_name":"Republic Bharat",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-162/channel_web/anchorbanners11704f82e6a64233425f9ccc065f88214e34"
+        },
+        {
+            "channel_id":"0-9-zeebusiness",
+            "channel_name":"Zee Business",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebusiness/channel_web/zeebusiness117088d767ebaf91485992201f5422d49bb1"
+        },
+        {
+            "channel_id":"0-9-170",
+            "channel_name":"News Nation",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/newsnation1170c28d164cac8b46d48dd03c24f22a2611"
+        },
+        {
+            "channel_id":"0-9-257",
+            "channel_name":"TV9 Marathi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/tv9marathi1170c5bded27d1644b18a5624c7dd3c33d3b"
+        },
+        {
+            "channel_id":"0-9-indiatoday",
+            "channel_name":"India Today",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatodayrajeevsardesdai117023f79b66b4d4466ea52534491c162c35"
+        },
+        {
+            "channel_id":"0-9-306",
+            "channel_name":"Vendhar TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/vendhartv1170ea466f03c5984481876c4200bd6bb22d"
+        },
+        {
+            "channel_id":"0-9-258",
+            "channel_name":"TV9 Telugu",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/tv9telugu117006600b0482a24377bec3b6b67e0b48c9"
+        },
+        {
+            "channel_id":"0-9-222",
+            "channel_name":"TV5 News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-222/channel_web/1170x658withlogo273514222953081f2a5264d2199171a94a0135187"
+        },
+        {
+            "channel_id":"0-9-270",
+            "channel_name":"Saam TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/saamtv117064848316bfb4424ab360060c0214cec9"
+        },
+        {
+            "channel_id":"0-9-282",
+            "channel_name":"India TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-282/channel_web/indiatv1170598b3b1a8dde4800bcff6b4bc7ec02cc"
+        },
+        {
+            "channel_id":"0-9-zeepunjabharyanahima",
+            "channel_name":"Zee Punjab Haryana Himachal Pradesh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/zphh14405b673f1d0f8a43969c82a3c67dff3dad"
+        },
+        {
+            "channel_id":"0-9-251",
+            "channel_name":"TV9 Bharatvarsh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-251/channel_web/tv9bharatvarshb1170e3167ef254394aa0b6ff7a978bdbc921"
+        },
+        {
+            "channel_id":"0-9-206",
+            "channel_name":"News24",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/e24newslogob1170d070a62b9582496dbaaf4a73a3430376"
+        },
+        {
+            "channel_id":"0-9-channel_1422341819",
+            "channel_name":"Republic TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1422341819/channel_web/rtv11708043efd184cc497facd3cc4387cbb108"
+        },
+        {
+            "channel_id":"0-9-260",
+            "channel_name":"TV9 Gujarati",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/tv9gujarati1170f3923ce988484dd0a81cd0bec994e377"
+        },
+        {
+            "channel_id":"0-9-zee24kalak",
+            "channel_name":"Zee 24 Kalak",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/zee24kalak117026f0ebf7a57941d79fd9fdd74a2d6f26"
+        },
+        {
+            "channel_id":"0-9-259",
+            "channel_name":"TV9 Kannada",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/tv9kannada1170035730f6801c4ba0b1d905a61bbc9dcd"
+        },
+        {
+            "channel_id":"0-9-201",
+            "channel_name":"Suvarna News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658_503553443"
+        },
+        {
+            "channel_id":"0-9-zee24taas",
+            "channel_name":"Zee 24 Taas",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24taas/channel_web/zee24taas11707d845042f4ef453a8568b6ba22b3f568"
+        },
+        {
+            "channel_id":"0-9-255",
+            "channel_name":"Good News Today",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-255/channel_web/gnt11709b84a70ae43a4fcab837620b97c80f5f"
+        },
+        {
+            "channel_id":"0-9-wion",
+            "channel_name":"WION",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wion117087793a1cce2d4dcaa4274d5bfc6d5a96"
+        },
+        {
+            "channel_id":"0-9-zeehindustan",
+            "channel_name":"Zee Hindustan",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeehindustan/channel_web/zeehindustan11708e67b053f5e1461abb55377b1c939336"
+        },
+        {
+            "channel_id":"0-9-zeebiharjharkhand",
+            "channel_name":"Zee Bihar Jharkhand",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/channel_web/zeebiharjharkhandb117099e2787548354a5abd1c2230a5bee898"
+        },
+        {
+            "channel_id":"0-9-171",
+            "channel_name":"News State Uttar Pradesh Uttrakhand",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/newsstateuttarpradeshuttrakhand117057fc4c96dc444886b421570253e13a6a"
+        },
+        {
+            "channel_id":"0-9-24ghantatv",
+            "channel_name":"24 Ghanta",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02"
+        },
+        {
+            "channel_id":"0-9-zeekalinganews",
+            "channel_name":"Zee Odisha",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/zeeodisha11707ef6fbab0159428bbe1a3196370fa851"
+        },
+        {
+            "channel_id":"0-9-zeerajasthannews",
+            "channel_name":"Zee Rajasthan News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeerajasthannews/channel_web/zeerajasthanb1170751ba3f9900e44b9a49f06e4e37042db"
+        },
+        {
+            "channel_id":"0-9-zeemadhyapradeshchat",
+            "channel_name":"Zee Madhya Pradesh Chhattisgarh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/channel_web/zeemadhyapradeshchhattisgarh1170342c565feaf141ccb6e5b39d2ce0e71d"
+        },
+        {
+            "channel_id":"0-9-chardiklatimetvtimet",
+            "channel_name":"Chardikla Time TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/chardiklatimetv1170803e29eda81041f481cabfbcf63c406a"
+        },
+        {
+            "channel_id":"0-9-ddnews",
+            "channel_name":"DD News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddnews/channel_web/ddnews11705b93d38449604b94b8b715cef36f33c6"
+        },
+        {
+            "channel_id":"0-9-ddindia",
+            "channel_name":"DD India",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddindia/channel_web/ddindiab117082f1e0ff4e50404a97f9e4ea810d0d64"
+        },
+        {
+            "channel_id":"0-9-ddkisan",
+            "channel_name":"DD Kisan",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddkisan/channel_web/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb"
+        },
+        {
+            "channel_id":"0-9-zeesalaam",
+            "channel_name":"Zee Salaam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeesalaam/channel_web/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2"
+        },
+        {
+            "channel_id":"0-9-ddyadagiri",
+            "channel_name":"DD Yadagiri",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddyadagiri/channel_web/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0"
+        },
+        {
+            "channel_id":"0-9-channel_265145625",
+            "channel_name":"Zee News Uttar Pradesh Uttrakhand",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_265145625/channel_web/zeeupukb1170a14076402a564513b88b488a90421d59"
+        },
+        {
+            "channel_id":"0-9-172",
+            "channel_name":"News State Madhya Pradesh Chhattisgarh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/newsstatempch11705453127ff9284c43b982e7e52d76641c"
+        },
+        {
+            "channel_id":"0-9-200",
+            "channel_name":"Asianet News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-200/channel_web/pgsureshkumarne_1752938193"
+        },
+        {
+            "channel_id":"0-9-227",
+            "channel_name":"TV5 Kannada",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/tv5kannada1170aaeef9c71d264307ae6263b453520611"
+        },
+        {
+            "channel_id":"0-9-272",
+            "channel_name":"India News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-272/channel_web/indianews117031f8a5ac002d4997aacd1577d390d3b0"
+        },
+        {
+            "channel_id":"0-9-273",
+            "channel_name":"News X",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/newsx11705f1b6520fc254daebac5828ac093b798"
+        },
+        {
+            "channel_id":"0-9-274",
+            "channel_name":"India News Punjabi Himachal",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b"
+        },
+        {
+            "channel_id":"0-9-275",
+            "channel_name":"India News UP",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-275/channel_web/indianewsupuk1170699189b29da0419780b604b5b27a1d5e"
+        },
+        {
+            "channel_id":"0-9-276",
+            "channel_name":"India News Rajasthan",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-276/channel_web/indianewsrajasthan11709eea0d2513e04c16b39ed265596df0e5"
+        },
+        {
+            "channel_id":"0-9-277",
+            "channel_name":"India News MP",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-277/channel_web/indianewsmp1170cb5cf71c7f1141f8be18c083970cf4ed"
+        },
+        {
+            "channel_id":"0-9-278",
+            "channel_name":"India News Haryana",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-278/channel_web/indianewsharyana11708fc221c14dcb40e389b3d9e1338a6c6c"
+        },
+        {
+            "channel_id":"0-9-279",
+            "channel_name":"India News Gujarat",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-279/channel_web/indianewsgujarat1170d81d0752eea04c669df2dc37c1bd4f97"
+        },
+        {
+            "channel_id":"0-9-280",
+            "channel_name":"NE News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-280/channel_web/nenews1170b76941073dff4b9382b14f80198b5105"
+        },
+        {
+            "channel_id":"0-9-305",
+            "channel_name":"Living India",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/livingindia1170df15a8430ba5461880eaec89eb8d05ef"
+        },
+        {
+            "channel_id":"0-9-310",
+            "channel_name":"Prag News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-310/channel_web/pragnews11708e8cfbbd7cc342c09e27956a56a6084a"
+        },
+        {
+            "channel_id":"0-9-313",
+            "channel_name":"Sadhna Plus News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-313/channel_web/sadhnaplusnews117044705e58ca9749d08603adeec06c299d"
+        },
+        {
+            "channel_id":"0-9-314",
+            "channel_name":"VIP News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-314/channel_web/vipnews1170a39a47a1b0554f04ae96edb65b77d0fe"
+        },
+        {
+            "channel_id":"0-9-317",
+            "channel_name":"TIME8",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-317/channel_web/time81170bcb518bfbd19440b8b482cad67ca7a8f"
+        },
+        {
+            "channel_id":"0-9-319",
+            "channel_name":"Sadhna News MP/CG",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-319/channel_web/sadhnanewsmpch11700de2a8f50653478c8a26b11904e279cc"
+        },
+        {
+            "channel_id":"0-9-354",
+            "channel_name":"Bharat Samachar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-354/channel_web/bharatsamachar1170db49df94773d486194cba05b2d712ffe"
+        },
+        {
+            "channel_id":"0-9-355",
+            "channel_name":"ABN Andhra Jyothy",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/abnandhrajyothy11700427e7d0f53343ca8612a9caa4ed1edd"
+        },
+        {
+            "channel_id":"0-9-371",
+            "channel_name":"10TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/10tv1170867ca01f83cd44a4b4e2c577590039f0"
+        },
+        {
+            "channel_id":"0-9-378",
+            "channel_name":"TV9 Bangla",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-378/channel_web/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce"
+        },
+        {
+            "channel_id":"0-9-383",
+            "channel_name":"Sudarshan TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-383/channel_web/sudarshantv1170ab2c3555bfa44317922f02d2bdea03de"
+        },
+        {
+            "channel_id":"0-9-384",
+            "channel_name":"Dainik Savera",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/dainiksavera1170fba0f7f5e89c488c893f6b80a54603d6"
+        },
+        {
+            "channel_id":"0-9-385",
+            "channel_name":"C News Bharat",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-385/channel_web/cnewsbharat1170058694df1b4b4b3eac921b188dff69f6"
+        },
+        {
+            "channel_id":"0-9-386",
+            "channel_name":"TV 100",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-386/channel_web/tv1001170ab5260f9aca74e2590f119c364bbf435"
+        },
+        {
+            "channel_id":"0-9-387",
+            "channel_name":"AB Star News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-387/channel_web/abstarnews11702861f1381130457292da3bde6f1bf2fc"
+        },
+        {
+            "channel_id":"0-9-388",
+            "channel_name":"Sanjhi Soch",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/sanjhisoch11708b74fd15cc674b69aa715814bb0f7a0f"
+        },
+        {
+            "channel_id":"0-9-389",
+            "channel_name":"Euro News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/euronewsb117009692741d8254698a3a35f9cef914b2e"
+        },
+        {
+            "channel_id":"0-9-390",
+            "channel_name":"Africa News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-390/channel_web/africanewsb11702dce80531da94a959cf9be397d4f8469"
+        },
+        {
+            "channel_id":"0-9-398",
+            "channel_name":"ABP News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-398/channel_web/abpnewssumitawasthi21170ef3a0d5743ed479aab0111e2440ca87b"
+        },
+        {
+            "channel_id":"0-9-399",
+            "channel_name":"ABP Ganga",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-399/channel_web/abpganga1170e69c33f8e6d140fd8cd954177064b16b"
+        },
+        {
+            "channel_id":"0-9-400",
+            "channel_name":"ABP Majha",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-400/channel_web/abpmajha1170cb8e2b94f9244846a3be5bdaa87792f8"
+        },
+        {
+            "channel_id":"0-9-402",
+            "channel_name":"ABP Ananda",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-402/channel_web/abpananda1170326ed9e75816a6456b9e713f1f5bf83cc7"
+        },
+        {
+            "channel_id":"0-9-403",
+            "channel_name":"ABP Asmita",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-403/channel_web/abpasmita1170e9877d844ae74d54910d4a1798720913"
+        },
+        {
+            "channel_id":"0-9-404",
+            "channel_name":"ABP Sanjha",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-404/channel_web/abpsanjha1170e043143edf5f4fa3be291347ddd15311"
+        },
+        {
+            "channel_id":"0-9-407",
+            "channel_name":"News Time Assam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-407/channel_web/1170x658671581899"
+        },
+        {
+            "channel_id":"0-9-408",
+            "channel_name":"ND24",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-408/channel_web/nd2411700106e77550ed4c70a5e578db7644f6a1"
+        },
+        {
+            "channel_id":"0-9-410",
+            "channel_name":"CVR News Telugu",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-410/channel_web/cvrnewstelugu117089dc3accd5114448a6db45530a8be68d"
+        },
+        {
+            "channel_id":"0-9-411",
+            "channel_name":"CVR English",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-411/channel_web/cvrenglish11702e7a7b9730fb46c2ba5c37f06bcb3d22"
+        },
+        {
+            "channel_id":"0-9-413",
+            "channel_name":"Pratidin Time",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-413/channel_web/pratidintime1170afea806003d0418ab560e90ae675fb41"
+        },
+        {
+            "channel_id":"0-9-417",
+            "channel_name":"News1 India",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-417/channel_web/news1india117021bcedcc55e34d259ffce7b35189a0a3"
+        },
+        {
+            "channel_id":"0-9-418",
+            "channel_name":"V6",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-418/channel_web/v611706da0a50feba64da09d710bfc70714d88"
+        },
+        {
+            "channel_id":"0-9-423",
+            "channel_name":"Newsmax",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-423/channel_web/1170x658_1426309917"
+        },
+        {
+            "channel_id":"0-9-424",
+            "channel_name":"Ticker News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-424/channel_web/1170x658439820624"
+        },
+        {
+            "channel_id":"0-9-430",
+            "channel_name":"Kairali News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-430/channel_web/sarath_1170"
+        },
+        {
+            "channel_id":"0-9-431",
+            "channel_name":"Republic Bangla",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-431/channel_web/rbangla1170"
+        },
+        {
+            "channel_id":"0-9-9z583386",
+            "channel_name":"Times Now Navbharat",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583386/channel_web/timesnownavbharat1170e4f4cbfa707b40e19ca7748eb6b27449"
+        },
+        {
+            "channel_id":"0-9-9z583533",
+            "channel_name":"ZEE News Tamil",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583533/channel_web/1170x65872e20eebb8c4416db5d5b1e014e2ab77"
+        },
+        {
+            "channel_id":"0-9-9z583537",
+            "channel_name":"ZEE News Kannada",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583537/channel_web/1170x65892ecf4aa8e934cdeb7deb9bbd501646d"
+        },
+        {
+            "channel_id":"0-9-9z583538",
+            "channel_name":"Zee News Telugu",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583538/channel_web/1170x658fb1bd397310743bf850648fb036ae8b7"
+        },
+        {
+            "channel_id":"0-9-9z583539",
+            "channel_name":"ZEE News Malayalam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583539/channel_web/1170x658f0313dbfc3ef4c0c9c4619454829b2d3"
+        },
+        {
+            "channel_id":"0-9-bigmagic_1786965389",
+            "channel_name":"Big Magic",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_web/1170x658withlog_2022520414"
+        },
+        {
+            "channel_id":"0-9-zeetvhd",
+            "channel_name":"Zee TV HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145"
+        },
+        {
+            "channel_id":"0-9-tvhd_0",
+            "channel_name":"&TV HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665"
+        },
+        {
+            "channel_id":"0-9-zeemarathi",
+            "channel_name":"Zee Marathi HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo551054149"
+        },
+        {
+            "channel_id":"0-9-zeeyuva",
+            "channel_name":"Zee Yuva",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131"
+        },
+        {
+            "channel_id":"0-9-zeecafehd",
+            "channel_name":"Zee Café HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo325698699"
+        },
+        {
+            "channel_id":"0-9-bigganga",
+            "channel_name":"Zee Ganga",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_web/1170x6581735687172"
+        },
+        {
+            "channel_id":"0-9-zeetamil",
+            "channel_name":"Zee Tamil HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368"
+        },
+        {
+            "channel_id":"0-9-zeetelugu",
+            "channel_name":"Zee Telugu HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658593933473"
+        },
+        {
+            "channel_id":"0-9-zeekannada",
+            "channel_name":"Zee Kannada HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658611455469"
+        },
+        {
+            "channel_id":"0-9-129",
+            "channel_name":"Zee Keralam HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785"
+        },
+        {
+            "channel_id":"0-9-zeebangla",
+            "channel_name":"Zee Bangla HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658310781121"
+        },
+        {
+            "channel_id":"0-9-zeeanmol",
+            "channel_name":"Zee Anmol",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347"
+        },
+        {
+            "channel_id":"0-9-zeebanglacinema",
+            "channel_name":"Zee Bangla Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598"
+        },
+        {
+            "channel_id":"0-9-215",
+            "channel_name":"Zee Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog1031170304"
+        },
+        {
+            "channel_id":"0-9-ddodia",
+            "channel_name":"DD Odia",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736"
+        },
+        {
+            "channel_id":"0-9-165",
+            "channel_name":"Boogle Bollywood",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732"
+        },
+        {
+            "channel_id":"0-9-channel_2132977507",
+            "channel_name":"Alpha ETC Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog1071598760"
+        },
+        {
+            "channel_id":"0-9-zeetv",
+            "channel_name":"Zee TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097"
+        },
+        {
+            "channel_id":"0-9-makkaltv",
+            "channel_name":"Makkal TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187"
+        },
+        {
+            "channel_id":"0-9-ddpodhigai",
+            "channel_name":"DD Podhigai",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077"
+        },
+        {
+            "channel_id":"0-9-ddmalayalam",
+            "channel_name":"DD Malayalam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155"
+        },
+        {
+            "channel_id":"0-9-ddbangla",
+            "channel_name":"DD Bangla",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbangla/channel_web/1170x658withlog_1242891543"
+        },
+        {
+            "channel_id":"0-9-ddchandana",
+            "channel_name":"DD Chandana",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298"
+        },
+        {
+            "channel_id":"0-9-sarthaktv",
+            "channel_name":"Zee Sarthak",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-sarthaktv/channel_web/1170x658withlog1150431941"
+        },
+        {
+            "channel_id":"0-9-ddsahyadri",
+            "channel_name":"DD Sahyadri",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog1078376781"
+        },
+        {
+            "channel_id":"0-9-ddgirnar",
+            "channel_name":"DD Girnar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484"
+        },
+        {
+            "channel_id":"0-9-ddurdu",
+            "channel_name":"DD Urdu",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddurdu/channel_web/1170x658withlog_1440959247"
+        },
+        {
+            "channel_id":"0-9-ddrajasthanjaipur",
+            "channel_name":"DD Rajasthan",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddrajasthanjaipur/channel_web/1170x658withlog_1491909175"
+        },
+        {
+            "channel_id":"0-9-ddbharati",
+            "channel_name":"DD Bharati",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbharati/channel_web/1170x658withlog_1749264623"
+        },
+        {
+            "channel_id":"0-9-ddmadhyapradesh",
+            "channel_name":"DD Madhya Pradesh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmadhyapradesh/channel_web/1170x658withlog_1218231157"
+        },
+        {
+            "channel_id":"0-9-ddbihar",
+            "channel_name":"DD Bihar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_web/1170x658withlog_1865440648"
+        },
+        {
+            "channel_id":"0-9-dduttarpradesh",
+            "channel_name":"DD Uttar Pradesh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-dduttarpradesh/channel_web/1170x658withlog_1445486903"
+        },
+        {
+            "channel_id":"0-9-ddpunjabi",
+            "channel_name":"DD Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800"
+        },
+        {
+            "channel_id":"0-9-241",
+            "channel_name":"Zee Picchar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342"
+        },
+        {
+            "channel_id":"0-9-250",
+            "channel_name":"DD National HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-250/channel_web/1170x658withlogo436360213"
+        },
+        {
+            "channel_id":"0-9-322",
+            "channel_name":"Rengoni",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-322/channel_web/1170x658withlog_1602476580"
+        },
+        {
+            "channel_id":"0-9-24ghantatv",
+            "channel_name":"24 Ghanta",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/1170x658withlogo_644392845"
+        },
+        {
+            "channel_id":"0-9-zeebangla",
+            "channel_name":"Zee Bangla HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121"
+        },
+        {
+            "channel_id":"0-9-zeebanglacinema",
+            "channel_name":"Zee Bangla Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598"
+        },
+        {
+            "channel_id":"0-9-channel_1144658965",
+            "channel_name":"Sanskar TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1144658965/channel_web/1170x658withlog_1152304152"
+        },
+        {
+            "channel_id":"0-9-327",
+            "channel_name":"Shubh TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-327/channel_web/1170x658withlog_2031259137"
+        },
+        {
+            "channel_id":"0-9-channel_1565694979",
+            "channel_name":"Satsang TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1565694979/channel_web/1170x658withlogo_66703857"
+        },
+        {
+            "channel_id":"0-9-divyatv",
+            "channel_name":"Divya TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-divyatv/channel_web/1170x658withlog_2128007300"
+        },
+        {
+            "channel_id":"0-9-166",
+            "channel_name":"Krishna Vani",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-166/channel_web/1170x658withlogo_450865576"
+        },
+        {
+            "channel_id":"0-9-183",
+            "channel_name":"Hare Krsna",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-183/channel_web/1170x658withlog_1124442022"
+        },
+        {
+            "channel_id":"0-9-284",
+            "channel_name":"Sadhna TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-284/channel_web/1170x658withlogo_844800250"
+        },
+        {
+            "channel_id":"0-9-285",
+            "channel_name":"Ishwar  TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-285/channel_web/1170x658withlog_1126976137"
+        },
+        {
+            "channel_id":"0-9-316",
+            "channel_name":"Awakening",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-316/channel_web/1170x658withlog_1836335736"
+        },
+        {
+            "channel_id":"0-9-345",
+            "channel_name":"Ek Onkar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-345/channel_web/1170x658withlogo_361016754"
+        },
+        {
+            "channel_id":"0-9-412",
+            "channel_name":"Devam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-412/channel_web/1170x658_1626283630"
+        },
+        {
+            "channel_id":"0-9-wion",
+            "channel_name":"WION",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wionpalkisharmaupadhyay"
+        },
+        {
+            "channel_id":"0-9-273",
+            "channel_name":"News X",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/1170x658withlog_2139188797"
+        },
+        {
+            "channel_id":"0-9-389",
+            "channel_name":"Euro News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/1170x658_1189289223"
+        },
+        {
+            "channel_id":"0-9-170",
+            "channel_name":"News Nation",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605"
+        },
+        {
+            "channel_id":"0-9-171",
+            "channel_name":"News State Uttar Pradesh Uttrakhand",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396"
+        },
+        {
+            "channel_id":"0-9-172",
+            "channel_name":"News State Madhya Pradesh Chhattisgarh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382"
+        },
+        {
+            "channel_id":"0-9-260",
+            "channel_name":"TV9 Gujarati",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/1170x658withlog_1673213675"
+        },
+        {
+            "channel_id":"0-9-zee24kalak",
+            "channel_name":"Zee 24 Kalak",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/1170x658withlog_1335796285"
+        },
+        {
+            "channel_id":"0-9-163",
+            "channel_name":"Shiksha TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389"
+        },
+        {
+            "channel_id":"0-9-ddgirnar",
+            "channel_name":"DD Girnar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484"
+        },
+        {
+            "channel_id":"0-9-zeecinemahd",
+            "channel_name":"Zee Cinema HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257"
+        },
+        {
+            "channel_id":"0-9-tvpictureshd",
+            "channel_name":"&Pictures HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363"
+        },
+        {
+            "channel_id":"0-9-zeeanmolcinema",
+            "channel_name":"Zee Anmol Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595"
+        },
+        {
+            "channel_id":"0-9-zeeclassic",
+            "channel_name":"Zee Bollywood",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605"
+        },
+        {
+            "channel_id":"0-9-zeecinema",
+            "channel_name":"Zee Cinema",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654"
+        },
+        {
+            "channel_id":"0-9-pictures",
+            "channel_name":"&Pictures",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414"
+        },
+        {
+            "channel_id":"0-9-zeeaction",
+            "channel_name":"Zee Action",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347"
+        },
+        {
+            "channel_id":"0-9-176",
+            "channel_name":"Zee Classic",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588"
+        },
+        {
+            "channel_id":"0-9-170",
+            "channel_name":"News Nation",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605"
+        },
+        {
+            "channel_id":"0-9-171",
+            "channel_name":"News State Uttar Pradesh Uttrakhand",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396"
+        },
+        {
+            "channel_id":"0-9-172",
+            "channel_name":"News State Madhya Pradesh Chhattisgarh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382"
+        },
+        {
+            "channel_id":"0-9-163",
+            "channel_name":"Shiksha TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389"
+        },
+        {
+            "channel_id":"0-9-259",
+            "channel_name":"TV9 Kannada",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/1170x658withlogo_382506495"
+        },
+        {
+            "channel_id":"0-9-201",
+            "channel_name":"Suvarna News",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658withlog_1629853975"
+        },
+        {
+            "channel_id":"0-9-zeekannada",
+            "channel_name":"Zee Kannada HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658_611455469"
+        },
+        {
+            "channel_id":"0-9-ddchandana",
+            "channel_name":"DD Chandana",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298"
+        },
+        {
+            "channel_id":"0-9-227",
+            "channel_name":"TV5 Kannada",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/1170x658_1957432816"
+        },
+        {
+            "channel_id":"0-9-241",
+            "channel_name":"Zee Picchar",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342"
+        },
+        {
+            "channel_id":"0-9-356",
+            "channel_name":"News First",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-356/channel_web/1170x658withlog_1495734600"
+        },
+        {
+            "channel_id":"0-9-377",
+            "channel_name":"BTV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-377/channel_web/1170x658withlog_1939892250"
+        },
+        {
+            "channel_id":"0-9-207",
+            "channel_name":"E24",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24_list"
+        },
+        {
+            "channel_id":"0-9-348",
+            "channel_name":"Zee Zest HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619"
+        },
+        {
+            "channel_id":"0-9-271",
+            "channel_name":"Sugran TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572"
+        },
+        {
+            "channel_id":"0-9-392",
+            "channel_name":"Fashion TV Mumbai",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-392/channel_web/1170x658_11759167"
+        },
+        {
+            "channel_id":"0-9-393",
+            "channel_name":"Fashion TV Paris",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-393/channel_web/1170x6581715566364"
+        },
+        {
+            "channel_id":"0-9-129",
+            "channel_name":"Zee Keralam HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785"
+        },
+        {
+            "channel_id":"0-9-ddmalayalam",
+            "channel_name":"DD Malayalam",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155"
+        },
+        {
+            "channel_id":"0-9-257",
+            "channel_name":"TV9 Marathi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656"
+        },
+        {
+            "channel_id":"0-9-270",
+            "channel_name":"Saam TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399"
+        },
+        {
+            "channel_id":"0-9-zeemarathi",
+            "channel_name":"Zee Marathi HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149"
+        },
+        {
+            "channel_id":"0-9-zeeyuva",
+            "channel_name":"Zee Yuva",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131"
+        },
+        {
+            "channel_id":"0-9-zeetalkies",
+            "channel_name":"Zee Talkies HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857"
+        },
+        {
+            "channel_id":"0-9-134",
+            "channel_name":"9X Jhakaas",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564"
+        },
+        {
+            "channel_id":"0-9-ddsahyadri",
+            "channel_name":"DD Sahyadri",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog_1078376781"
+        },
+        {
+            "channel_id":"0-9-271",
+            "channel_name":"Sugran TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572"
+        },
+        {
+            "channel_id":"0-9-353",
+            "channel_name":"Zee Vajwa",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781"
+        },
+        {
+            "channel_id":"0-9-zing",
+            "channel_name":"Zing",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo895666865"
+        },
+        {
+            "channel_id":"0-9-165",
+            "channel_name":"Boogle Bollywood",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732"
+        },
+        {
+            "channel_id":"0-9-296",
+            "channel_name":"Non-stop EDM",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810"
+        },
+        {
+            "channel_id":"0-9-353",
+            "channel_name":"Zee Vajwa",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog1434429781"
+        },
+        {
+            "channel_id":"0-9-zeekalinganews",
+            "channel_name":"Zee Odisha",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/1170x658withlog_1893514287"
+        },
+        {
+            "channel_id":"0-9-ddodia",
+            "channel_name":"DD Odia",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736"
+        },
+        {
+            "channel_id":"0-9-zeepunjabharyanahima",
+            "channel_name":"Zee Punjab Haryana Himachal Pradesh",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/1170x658withlog_1111951312"
+        },
+        {
+            "channel_id":"0-9-215",
+            "channel_name":"Zee Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog_1031170304"
+        },
+        {
+            "channel_id":"0-9-chardiklatimetvtimet",
+            "channel_name":"Chardikla Time TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/1170x658withlog_1413076946"
+        },
+        {
+            "channel_id":"0-9-132",
+            "channel_name":"9X Tashan",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165"
+        },
+        {
+            "channel_id":"0-9-channel_2132977507",
+            "channel_name":"Alpha ETC Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog_1071598760"
+        },
+        {
+            "channel_id":"0-9-ddpunjabi",
+            "channel_name":"DD Punjabi",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800"
+        },
+        {
+            "channel_id":"0-9-274",
+            "channel_name":"India News Punjabi Himachal",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/1170x658withlogo_212610744"
+        },
+        {
+            "channel_id":"0-9-305",
+            "channel_name":"Living India",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093"
+        },
+        {
+            "channel_id":"0-9-384",
+            "channel_name":"Dainik Savera",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/1170x658_1283511414"
+        },
+        {
+            "channel_id":"0-9-388",
+            "channel_name":"Sanjhi Soch",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/1170x658_290485787"
+        },
+        {
+            "channel_id":"0-9-306",
+            "channel_name":"Vendhar TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/1170x658withlog_1787137922"
+        },
+        {
+            "channel_id":"0-9-zeetamil",
+            "channel_name":"Zee Tamil HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368"
+        },
+        {
+            "channel_id":"0-9-makkaltv",
+            "channel_name":"Makkal TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187"
+        },
+        {
+            "channel_id":"0-9-ddpodhigai",
+            "channel_name":"DD Podhigai",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077"
+        },
+        {
+            "channel_id":"0-9-258",
+            "channel_name":"TV9 Telugu",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400"
+        },
+        {
+            "channel_id":"0-9-zeetelugu",
+            "channel_name":"Zee Telugu HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473"
+        },
+        {
+            "channel_id":"0-9-zeecinemalu",
+            "channel_name":"Zee Cinemalu HD",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232"
+        },
+        {
+            "channel_id":"0-9-355",
+            "channel_name":"ABN Andhra Jyothy",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414"
+        },
+        {
+            "channel_id":"0-9-371",
+            "channel_name":"10TV",
+            "channelCategoryId":30,
+            "isHD":false,
+            "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/1170x658withlogo_203787503"
         }
     ]
 }
