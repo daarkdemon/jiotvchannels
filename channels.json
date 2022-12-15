@@ -10244,6 +10244,167 @@
             "channelCategoryId":30,
             "isHD":false,
             "logoUrl":"https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/1170x658withlogo_203787503"
+        },
+        {
+            "channel_id":"Sab_HD.php",
+            "channel_name":"Sony SAB",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_SAB.png"
+        },
+        {
+            "channel_id":"Sony_HD.php",
+            "channel_name":"Sony HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_HD.png"
+        },
+        {
+            "channel_id":"Sab_HD.php ",
+            "channel_name":"Sony SAB HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_SAB_HD.png"
+        },
+        {
+            "channel_id":"Sony_Pal.php",
+            "channel_name":"Sony Pal",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Pal.png"
+        },
+        {
+            "channel_id":"Sony_Pix_HD.php",
+            "channel_name":"Sony Pix HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Pix_HD.png"
+        },
+        {
+            "channel_id":"Sony_Max.php",
+            "channel_name":"Sony Max SD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"SET_MAX.png"
+        },
+        {
+            "channel_id":"Sony_Max_HD.php",
+            "channel_name":"Sony Max HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Max_HD.png"
+        },
+        {
+            "channel_id":"Sony_Max2.php",
+            "channel_name":"Sony MAX2",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_MAX2.png"
+        },
+        {
+            "channel_id":"Sony_Six_HD.php",
+            "channel_name":"Sony Six HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Six_HD.png"
+        },
+        {
+            "channel_id":"Sony_Wah.php ",
+            "channel_name":"Sony Wah",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Wah.png"
+        },
+        {
+            "channel_id":"Sony_HD.php",
+            "channel_name":"Sony SD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_SD.png"
+        },
+        {
+            "channel_id":"Sony_Pix_HD.php",
+            "channel_name":"Sony Pix SD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Pix_SD.png"
+        },
+        {
+            "channel_id":"Sony_Ten1.HD.php",
+            "channel_name":"Ten 1 HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten_HD.png"
+        },
+        {
+            "channel_id":"Sony_Ten2_HD.php",
+            "channel_name":"Ten 2 HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten2_HD.png"
+        },
+        {
+            "channel_id":"Sony_Ten3_HD.php",
+            "channel_name":"Ten 3 HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten3_HD.png"
+        },
+        {
+            "channel_id":"Sony_Ten1.php",
+            "channel_name":"Ten 1",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten_1.png"
+        },
+        {
+            "channel_id":"Sony_Ten2.php",
+            "channel_name":"Ten 2",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten_2.png"
+        },
+        {
+            "channel_id":"Sony_Ten3.php",
+            "channel_name":"Ten 3",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Ten_3.png"
+        },
+        {
+            "channel_id":"BBC_Earth.php",
+            "channel_name":"Sony BBC Earth HD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_BBC_Earth_HD.png"
+        },
+        {
+            "channel_id":"Sony_Six.php",
+            "channel_name":"Sony Six SD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Six_SD.png"
+        },
+        {
+            "channel_id":"Sony_Yay.php",
+            "channel_name":"Sony Yay Hindi",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Yay_Hindi.png"
+        },
+        {
+            "channel_id":"Sony_Marathi.php",
+            "channel_name":"Sony Marathi SD",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_Marathi_SD.png"
+        },
+        {
+            "channel_id":"Sony_Aath.php",
+            "channel_name":"Sony aath",
+            "channelCategoryId":31,
+            "isHD":true,
+            "logoUrl":"Sony_aath.png"
         }
     ]
 }
